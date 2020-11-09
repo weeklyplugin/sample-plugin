@@ -1,2 +1,2 @@
 # sample-plugin
-Sample plugin
+A frequently used functions and template parts in wordpress
